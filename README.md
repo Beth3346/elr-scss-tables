@@ -1,7 +1,7 @@
 # elr-scss-tables
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm](https://img.shields.io/npm/dm/elr-scss-tables.svg?style=flat)](https://npmjs.com/package/elr-scss-table)
+[![npm](https://img.shields.io/npm/dm/elr-scss-tables.svg?style=flat)](https://npmjs.com/package/elr-scss-tables)
 
 a library of sass mixins
 
