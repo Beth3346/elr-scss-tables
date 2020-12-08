@@ -1,0 +1,5 @@
+@import 'src/main';
+
+.data-table {
+  @include elr-table-base();
+}
