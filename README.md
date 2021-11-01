@@ -1,6 +1,5 @@
 # elr-scss-tables
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm](https://img.shields.io/npm/dm/elr-scss-tables.svg?style=flat)](https://npmjs.com/package/elr-scss-tables)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5ffdbb39-dd45-40ef-b59e-2a54198026c5/deploy-status)](https://app.netlify.com/sites/elr-scss-tables/deploys)
 
